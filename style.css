@@ -1,0 +1,64 @@
+header {
+	background-image: url("http://thepatternlibrary.com/img/bc.png");
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+header img {
+	height: 30%;
+	width: 30%;
+	margin: 50px;
+	border: solid white 5px;
+	border-radius: 5%;
+}
+
+ul {
+	background-color: black;
+	padding: 20px;
+}
+
+li {
+	display: inline;
+	margin: 20px;
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 20px;
+	font-family: 'Notable';
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.6;
+}
+
+div {
+	margin: 100px;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
