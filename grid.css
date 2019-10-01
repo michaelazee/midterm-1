@@ -1,0 +1,24 @@
+.grid { 
+  width: 31%;
+  display: inline-block;
+}
+
+.main {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+h1, h2, h3 {
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+div {
+  border: solid grey 2px;
+  border-radius: 20px;
+  box-shadow: 2px 5px lightgrey;
+  padding: 10px;
+}
